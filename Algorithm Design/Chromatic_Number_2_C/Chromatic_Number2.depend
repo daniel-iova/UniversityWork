@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1587918295 source:c:\users\alex_\desktop\homework_ad\chromatic_number2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1589977091 source:c:\users\alex_\desktop\homework_ad\chromatic_number_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	"functions.h"
+
+1588269779 source:c:\users\alex_\desktop\homework_ad\chromatic_number_2\graph.c
+	"graph.h"
+
+1589976628 c:\users\alex_\desktop\homework_ad\chromatic_number_2\graph.h
+
+1588090034 c:\users\alex_\desktop\homework_ad\chromatic_number_2\utils.h
+
+1588255339 c:\users\alex_\desktop\homework_ad\chromatic_number_2\input_handling.h
+
+1588254934 source:c:\users\alex_\desktop\homework_ad\chromatic_number_2\input_handling.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1589980677 source:c:\users\alex_\desktop\homework_ad\chromatic_number_2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1589976617 c:\users\alex_\desktop\homework_ad\chromatic_number_2\functions.h
+

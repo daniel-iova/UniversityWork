@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1587834766 source:c:\users\alex_\desktop\homework_ad\chromatic_number\main.c
+	<stdio.h>
+	<stdlib.h>
+	"generate_degree_array.h"
+	"global_variable.h"
+	"utils.h"
+
+1587745966 c:\users\alex_\desktop\homework_ad\chromatic_number\generate_degree_array.h
+	"global_variable.h"
+
+1587835128 source:c:\users\alex_\desktop\homework_ad\chromatic_number\generate_degree_array.c
+	<stdio.h>
+	<stdlib.h>
+	"generate_degree_array.h"
+	"global_variable.h"
+
+1587747580 c:\users\alex_\desktop\homework_ad\chromatic_number\global_variable.h
+
+1587747555 c:\users\alex_\desktop\homework_ad\chromatic_number\utils.h
+	"global_variable.h"
+
+1587835113 source:c:\users\alex_\desktop\homework_ad\chromatic_number\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"global_variable.h"
+
+1588282072 source:c:\users\alex_\desktop\homework_ad\chromatic_number_1\generate_degree_array.c
+	<stdio.h>
+	<stdlib.h>
+	"generate_degree_array.h"
+	"global_variable.h"
+
+1588281855 c:\users\alex_\desktop\homework_ad\chromatic_number_1\generate_degree_array.h
+
+1589976556 c:\users\alex_\desktop\homework_ad\chromatic_number_1\global_variable.h
+
+1589976417 source:c:\users\alex_\desktop\homework_ad\chromatic_number_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+	"utils.h"
+	"global_variable.h"
+
+1588271616 c:\users\alex_\desktop\homework_ad\chromatic_number_1\utils.h
+
+1589984898 source:c:\users\alex_\desktop\homework_ad\chromatic_number_1\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"global_variable.h"
+
+1589984967 source:c:\users\alex_\desktop\homework_ad\chromatic_number_1\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"generate_array.h"
+	"global_variable.h"
+
+1588281855 c:\users\alex_\desktop\homework_ad\chromatic_number_1\functions.h
+
+1588281855 c:\users\alex_\desktop\homework_ad\chromatic_number_1\generate_array.h
+
